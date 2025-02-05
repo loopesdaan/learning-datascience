@@ -6,7 +6,8 @@
 Certifique-se de ter o Python instalado (versão 3.6 ou superior). Em seguida, instale as bibliotecas necessárias:
 
 ```bash
-pip install pandas jira
+pip3 install pandas 
+pip3 install jira
 ```   
 
 ### 2. IDE Recomendada
