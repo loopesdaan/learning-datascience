@@ -4,3 +4,4 @@ seaborn
 matplotlib
 numpy
 pyspark
+mysql-connector-python
